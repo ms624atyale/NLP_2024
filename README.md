@@ -16,6 +16,6 @@ Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
-| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| (https://github.com/ms624atyale/Python_Basics/blob/main/30_ReadFilesImportingfrom_html.ipynb)|  
+| 1 | Code Cells 🐾 | [variable, assign]([https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb))| (https://github.com/ms624atyale/Python_Basics/blob/main/30_ReadFilesImportingfrom_html.ipynb)|  
 | 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)| 
 | 3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)| 
