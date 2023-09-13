@@ -1,4 +1,4 @@
-# **<font color = 'red'> NLP_2023**
+# **<font color = 'red'>NLP_2023**
 
 # 🐹🍦 **Python Language**
 
@@ -14,11 +14,6 @@
 
 [Emoji](https://gist.github.com/rxaviers/7360908)
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
-
-| # | Sessions | Keywords test |
-| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)|  
-| 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)| 
-| 3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)| 
 
 
 
