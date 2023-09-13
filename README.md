@@ -24,7 +24,7 @@ Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 
 |#|session |keywords |
 |:--:|:--:|:--:|
-|1|code cells|[variable,assign]()|
+|1|code cells|[variable,assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 
 
 | # | Sessions | Keywords |
