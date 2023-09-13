@@ -7,8 +7,12 @@
 ### **1. Sign up github** ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=c-NikCpec7U))
 ### **2. Sign up Google Colaboratory** (aka. Colab) ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=2X_EU18OeYM))
 
+[Jump to Python 점프투파이썬](https://wikidocs.net/book/1)
+
+
 Python Basics 
 - Python Exercises 200 by 장삼용. 정보문화사 2017
+- [Jump to Python 
 - [Jump to Python](https://wikidocs.net/book/1) 
 - [wikidocs for nltk](https://wikidocs.net/21667)
 
