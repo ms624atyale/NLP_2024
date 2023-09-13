@@ -22,6 +22,11 @@ Python Basics
 Emoji (https://gist.github.com/rxaviers/7360908)
 Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 
+|#|session |keywords |
+|:--:|:--:|:--:|
+|1|code cells|[variable,assign]()|
+
+
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)|  
