@@ -8,16 +8,12 @@
 ### **1. Sign up github** ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=c-NikCpec7U))
 ### **2. Sign up Google Colaboratory** (aka. Colab) ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=2X_EU18OeYM))
 
-[Jump to Python 점프투파이썬](https://wikidocs.net/book/1)
-
-
-Python Basics 
 - Python Exercises 200 파이썬200제 by 장삼용. 정보문화사 2017
 - [Jump to Python](https://wikidocs.net/book/1) 
 - [wikidocs for nltk](https://wikidocs.net/21667)
 
-Emoji (https://gist.github.com/rxaviers/7360908)
-Markdown syntax (https://www.markdownguide.org/basic-syntax/)
+[Emoji](https://gist.github.com/rxaviers/7360908)
+[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 
 | # | Sessions | Keywords |
@@ -25,3 +21,9 @@ Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)|  
 | 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)| 
 | 3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)| 
+
+| # | Sessions | Keywords |
+| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)|  
+| 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)| 
+| 3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)| 
+
