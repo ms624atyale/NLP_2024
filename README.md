@@ -1,8 +1,6 @@
-# NLP_2023
+# **<font color = 'red'> NLP_2023
 
-#👀💧☔Python Language
-
-**Fall**
+# 🐹🍦 **Python Language**
 
 # :a::hamster::paw_prints: Python Language
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
@@ -14,17 +12,12 @@
 
 
 Python Basics 
-- Python Exercises 200 by 장삼용. 정보문화사 2017
-- [Jump to Python 
+- Python Exercises 200 파이썬200제 by 장삼용. 정보문화사 2017
 - [Jump to Python](https://wikidocs.net/book/1) 
 - [wikidocs for nltk](https://wikidocs.net/21667)
 
 Emoji (https://gist.github.com/rxaviers/7360908)
 Markdown syntax (https://www.markdownguide.org/basic-syntax/)
-
-|#|session |keywords |
-|:--:|:--:|:--:|
-|1|code cells|[variable,assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 
 
 | # | Sessions | Keywords |
