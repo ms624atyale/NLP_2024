@@ -24,6 +24,9 @@
 |1 | Code Cells🐾| [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 |2 |Five Types of Data 📋||
 
+| # | Sessions | Keywords |
+|:--:|:--:|:--:|
+| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|  
 
 
 
