@@ -13,8 +13,8 @@
 - [wikidocs for nltk](https://wikidocs.net/21667)
 
 ### **4. Markdown Language**
-*[Emoji](https://gist.github.com/rxaviers/7360908)
-*[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+* [Emoji](https://gist.github.com/rxaviers/7360908)
+* [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 ### **5. Class Materials**
 | # | Sessions | Keywords |
