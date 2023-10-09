@@ -17,9 +17,10 @@
 * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 ### **5. Class Materials**
-| # | Sessions | Keywords |
+| # | Sessions | Keywords | 
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|  
 | 2 | Five Types of Data 📋 | [number, string, list, tuple, dictionary](https://github.com/ms624atyale/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|  
 | 3 | Indexing & Slicing 📌✂️ | [:, forward, backward, link +, repeat *, length len()](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
 | 4 | Statements 💡 | [if ~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_1_IfStatement.ipynb) [ for ~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_2_ForStatement.ipynb) [try~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) [while~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|
+| 5 | Regular Expression 🔍 | [re, meta characters](https://github.com/ms624atyale/NLP_2023/blob/main/5_RegularExpression.ipynb)|  
