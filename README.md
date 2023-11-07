@@ -26,4 +26,4 @@
 | 5 | Regular Expression 🔍 | [re, meta characters](https://github.com/ms624atyale/NLP_2023/blob/main/5_RegularExpression.ipynb)|  
 | 6 | Functions ⌛ | [function, factor](https://github.com/ms624atyale/NLP_2023/blob/main/6_DefiningFunctions.ipynb)|  
 | 7 | Classes ⏰ | [class, method, member](https://github.com/ms624atyale/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb)|  
-| 8 | Files 💾 | [txt, html](https://github.com/ms624atyale/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb) 
+| 8 | Files 💾 | [txt, html]([https://github.com/ms624atyale/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb]
