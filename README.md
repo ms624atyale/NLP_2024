@@ -29,9 +29,9 @@
 | 8 | Classes ⏰ | [class, method, member](https://github.com/ms624atyale/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb)|  
 | 9 | Files 💾 | [txt, html](https://github.com/ms624atyale/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb)|
 | 10| Install & Import 🎁 | [package, module, function](https://github.com/ms624atyale/NLP_2024/blob/main/9_InstallPackages_ImportModlues_CallFunctions_chatGPT.ipynb)|
-| 11| Preprocessing 🎁 | [tokenization, cleaning, normalization](https://github.com/ms624atyale/NLP_2024/blob/main/10_Tokenization_VariousWays.ipynb)|
-| 12| WordCloud1 | [simple word cloud](https://github.com/ms624atyale/NLP_2024/blob/main/0_Wordcloud_Tutorial_aboutDaejeon.ipynb)|
-| 13| WordCloud2 | [word cloud by POS](https://github.com/ms624atyale/NLP_2024/blob/main/12_WordClouds_SortedbyPOS.ipynb)|
-| 14| Pronunciation | [digital project](https://github.com/ms624atyale/NLP_2024/blob/main/0_SelfTaught_Voca_Pronunciation.ipynb)
-| 15| Sentiment Anlysis | [positive, neutral, negative](https://github.com/ms624atyale/NLP_2024/blob/main/13_SentimentAnalysis_HarryPotter_AllSevenCopiesIncluded.ipynb)|
-| 16| Topic Modeling | [LDA, LSA]()|
+| 11| Preprocessing 🔨🔧| [tokenization, cleaning, normalization](https://github.com/ms624atyale/NLP_2024/blob/main/10_Tokenization_VariousWays.ipynb)|
+| 12| WordCloud1 ☁️| [simple word cloud](https://github.com/ms624atyale/NLP_2024/blob/main/0_Wordcloud_Tutorial_aboutDaejeon.ipynb)|
+| 13| WordCloud2 ☁️☁️| [word cloud by POS](https://github.com/ms624atyale/NLP_2024/blob/main/12_WordClouds_SortedbyPOS.ipynb)|
+| 14| Pronunciation 🔉| [digital project](https://github.com/ms624atyale/NLP_2024/blob/main/0_SelfTaught_Voca_Pronunciation.ipynb)
+| 15| Sentiment Anlysis 😃😌😩| [positive, neutral, negative](https://github.com/ms624atyale/NLP_2024/blob/main/13_SentimentAnalysis_HarryPotter_AllSevenCopiesIncluded.ipynb)|
+| 16| Topic Modeling 📈 | [LDA, LSA]()|
